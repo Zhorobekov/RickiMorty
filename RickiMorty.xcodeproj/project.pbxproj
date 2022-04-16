@@ -68,7 +68,6 @@
 		5660943A280A7F93003F92B9 /* RickiMorty */ = {
 			isa = PBXGroup;
 			children = (
-				56609462280A8105003F92B9 /* New Group */,
 				56609459280A805A003F92B9 /* ViewControllers */,
 				56609455280A801B003F92B9 /* Models */,
 				56609452280A7FF3003F92B9 /* Views */,
@@ -113,13 +112,6 @@
 				56609460280A80ED003F92B9 /* EpisodesViewController.swift */,
 			);
 			path = ViewControllers;
-			sourceTree = "<group>";
-		};
-		56609462280A8105003F92B9 /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group";
 			sourceTree = "<group>";
 		};
 		56609463280A8120003F92B9 /* App */ = {
